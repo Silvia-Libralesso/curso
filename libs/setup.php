@@ -13,7 +13,7 @@ $config->set('dbname', 'dwespruebas');
 $config->set('dbuser', 'super');
 $config->set('dbpass', '123456'); */
 
-$config->set('dbhost', 'containers-us-west-193.railway.app');
+$config->set('dbhost', 'containers-us-west-193.railway.app:7246');
 $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
 $config->set('dbpass', 'C2KDgerIM16rNTEg5647');
